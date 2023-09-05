@@ -1,5 +1,0 @@
-{{#user}}
-Name: Akhil Sharma
-Skills: HTML, CSS, JS, React.js, Next.js, Node.js, Express.js, MongoDB, Tailwind, Sass, SQL, Redux, Bootstrap, Mongoose, Git, Github
-Email: akhilsharma6721@gmail.com
-{{/user}}
